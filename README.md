@@ -11,5 +11,7 @@ Sourced from R package nlstools: https://cran.r-project.org/web/packages/nlstool
 ### Per them:
 
 vmkmki is a data frame with 3 columns (S: concentration of substrat, I: concentration of inhibitor, v: reaction rate)
-Source: These datasets were provided by the French research unit INRA UMR1233.
+
+#### Source:
+These datasets were provided by the French research unit INRA UMR1233.
 
