@@ -1,5 +1,11 @@
 # michaelis-menten-animated
-Attempt at practicing numpy, pandas, and matplotlib to create a visualization of Michaelis-Menten kinetics with an existing dataset
+Attempt at practicing numpy, pandas, and matplotlib to create a visualization of Michaelis-Menten kinetics with an existing dataset\
+
+## Process
+1. Create visualization of existing data
+2. Fit nonlinear model per M-M derivation
+3. Fit more models out of curioisty
+4. Create animated plots of data with different models
 
 ![image](https://github.com/user-attachments/assets/3f2d2041-34c7-49cf-be29-99a180a50bf5)
 
