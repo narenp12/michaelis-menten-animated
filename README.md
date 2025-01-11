@@ -8,6 +8,8 @@ Part of a series of projects trying to replicate what I can do in R with Python 
 ## Dataset information
 Sourced from R package nlstools: https://cran.r-project.org/web/packages/nlstools/nlstools.pdf
 
+Labeled in repository as "vmkmki_mmdata.csv"
+
 ### Per them:
 
 vmkmki is a data frame with 3 columns (S: concentration of substrat, I: concentration of inhibitor, v: reaction rate)
