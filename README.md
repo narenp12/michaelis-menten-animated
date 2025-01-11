@@ -1,5 +1,5 @@
 # michaelis-menten-animated
-Attempt at practicing numpy, pandas, and matplotlib to create a visualization of Michaelis-Menten kinetics with an existing dataset\
+Attempt at practicing numpy, pandas, and matplotlib to create a visualization of Michaelis-Menten kinetics with an existing dataset
 
 ## Process
 1. Create visualization of existing data
