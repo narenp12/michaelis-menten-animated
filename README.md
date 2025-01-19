@@ -1,5 +1,7 @@
 # michaelis-menten-animated
-Attempt at practicing numpy, pandas, and matplotlib to create a visualization of Michaelis-Menten kinetics with an existing dataset
+Attempt at practicing numpy, pandas, and plotly to create a visualization of Michaelis-Menten kinetics with an existing dataset
+
+Edit 1: Changed focus from matplotlib to plotly to use the nice properties of javascript integration
 
 ## Process
 1. Create visualization of existing data
