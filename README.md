@@ -15,7 +15,7 @@ The project contains the following files:
 
 - **`app.py`**: Script version of `combined_dash_app.ipynb` for Render deployment.
 
-- **`requirements.txt`**: This file ccontains the dependencies used for creating and running this script. Created for Render deployment.
+- **`requirements.txt`**: This file contains the dependencies used for creating and running this script. Created for Render deployment.
 
 - **`vmkmki_mmdata.csv`**:
   - Sourced from R package nlstools: https://cran.r-project.org/web/packages/nlstools/nlstools.pdf
