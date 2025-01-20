@@ -27,3 +27,5 @@ These datasets were provided by the French research unit INRA UMR1233.
 ## Final Output
 Found in michaelis_menten_w_inhibition.ipynb. Click the link associated with the repo to see the interactive graphs and outputs in action without having to run the notebook locally.
 
+## Deployment
+Deployed on Render using the steps from this repo: https://github.com/thusharabandara/dash-app-render-deployment (very thankful for it)
