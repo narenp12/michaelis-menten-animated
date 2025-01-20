@@ -6,8 +6,7 @@ Edit 1: Changed focus from matplotlib to plotly to use the nice properties of ja
 ## Process
 1. Create visualization of existing data
 2. Fit nonlinear model per M-M derivation
-3. Fit more models out of curiousity
-4. Create animated plots of data with different models
+3. Create interactive plots of data with different models
 
 ![image](https://github.com/user-attachments/assets/3f2d2041-34c7-49cf-be29-99a180a50bf5)
 
@@ -24,4 +23,7 @@ vmkmki is a data frame with 3 columns (S: concentration of substrat, I: concentr
 
 #### Source:
 These datasets were provided by the French research unit INRA UMR1233.
+
+## Final Output
+Found in michaelis_menten_w_inhibition.ipynb. Click the link associated with the repo to see the interactive graphs and outputs in action without having to run the notebook locally.
 
