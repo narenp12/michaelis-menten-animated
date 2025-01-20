@@ -19,7 +19,7 @@ The project contains the following files:
 
 - **`vmkmki_mmdata.csv`**:
   - Sourced from R package nlstools: https://cran.r-project.org/web/packages/nlstools/nlstools.pdf
-  - vmkmki is a data frame with 3 columns (S: concentration of substrat, I: concentration of inhibitor, v: reaction rate)
+  - vmkmki is a data frame with 3 columns (S: concentration of substrate, I: concentration of inhibitor, v: reaction rate)
   - These datasets were provided by the French research unit INRA UMR1233.
 
 - **`README.md`**: This file contains an overview of the project and additional information.
